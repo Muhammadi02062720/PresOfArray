@@ -84,4 +84,46 @@
   >slice() method takes three parametrs:
   >For example:    slice(start, delete, add);
   ![](https://github.com/Muhammadi02062720/PresentationOf-3-/blob/6c4ac869ac4bf11d41cd5c0ccad5cc3bd90685c8/images/Screenshot_13.png)
-  
+
+>#### slice():
+
+ >The slice() method returns a shallow copy of a portion of an array into a new array object selected from start to end (end not included) where start and end represent the index of items in that array. The original array will not be modified:
+
+  >For example:  slice(start, end);
+  ![](https://github.com/Muhammadi02062720/PresentationOf-3-/blob/e5a9c599cb8d441a1624ebc222d1fbff574707fe/images/Screenshot_12.png)
+
+>## JavaScript array methods callbacks
+
+ >What is the callbacks in js ?
+  >Обратный вызов - это функция, которая передается в качестве аргумента другой функции, и ее выполнение откладывается до тех пор, пока не будет выполнена та функция, в которую она передана.
+ 
+ >## JavaScript array methods:
+
+ ![](https://github.com/Muhammadi02062720/PresentationOf-3-/blob/0455bc9c84c98dca4266fc708591d11e57d73d4c/images/Screenshot_16.png)
+
+ >## map();
+  >The map() method creates a new array with the results of calling a provided function on every element in the calling array.
+  ![](https://github.com/Muhammadi02062720/PresentationOf-3-/blob/11ba5ecf05b7f60a8bc77899fccdec77571876d2/images/Screenshot_17.png)
+
+>## forEach();
+ >The forEach() method executes a provided function once for each array element
+
+ ![](https://github.com/Muhammadi02062720/PresentationOf-3-/blob/8f12ff80683fea739072daaeea889731f81352ac/images/Screenshot_18.png)
+
+  >The syntaxes of forEach();
+  >arr.forEach(callback(elements, index, arr) {code})
+
+>## find();
+ >The find() method returns the first element in the provided array that satisfies the provided testing function. If no values satisfy the testing function, undefined is returned.
+![](https://github.com/Muhammadi02062720/PresentationOf-3-/blob/3886bfd767b609d2479b4b358058755b8669a449/images/Screenshot_20.png)
+
+>## sort(); 
+ >The sort() method sorts the elements of an array in place and returns the reference to the same array, now sorted. The default sort order is ascending, built upon converting the elements into strings, then comparing their sequences of UTF-16 code units values.
+
+1[](https://github.com/Muhammadi02062720/PresentationOf-3-/blob/5d0172f076e6ad5e75f1e4e1c52d1099b63bbaa0/images/Screenshot_21.png)
+
+>## filter();
+ >Returns the elements of an array that meet the condition specified in a callback function.
+ >Возвращает элементы массива, которые удовлетворяют условию, указанному в функции обратного вызова.
+
+ ![](https://github.com/Muhammadi02062720/PresentationOf-3-/blob/005c6b81dbf3b63043b5fbe7bf67f22029c2f483/images/Screenshot_23.png)
