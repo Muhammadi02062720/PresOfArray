@@ -7,7 +7,7 @@
  * JavaScript arrays are zero-indexed: the first element of an array is at index 0, the second is at index 1, and so on — and the last element is at the value of the array's length property minus 1.
  * JavaScript array-copy operations create shallow copies. (All standard built-in copy operations  with    any JavaScript objects create shallow copies, rather than deep copies).
 
-  ![](https://github.com/Muhammadi02062720/PresentationOf-3-/blob/23168bac9912874185639223b2f6645f296af0fe/images/865.jpg)
+  ![](https://fuzeservers.ru/wp-content/uploads/a/5/3/a53d6fb9fa7dbfda81a1e48b7613bc82.png)
 
 > ### CHANGE ELEMENTS IN ARRAY
 
